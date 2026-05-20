@@ -262,35 +262,6 @@ Deployment:
   - Netlify
   - Render
 ```
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashirwad682&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashirwad682&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7F00FF&currStreakLabel=00F7FF"/>
-
-<br><br>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashirwad682&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashirwad682&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashirwad682&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=7F00FF&point=FFFFFF"/>
-
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
