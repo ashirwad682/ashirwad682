@@ -1,34 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=180&section=header&text=ASHIRWAD%20KUMAR&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=header&text=ASHIRWAD%20KUMAR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="/assets/profile.jpg" width="180" height="180" style="border-radius:50%;" />
+<img src="https://github.com/ashirwad682/ashirwad682/blob/main/assets/profile.jpg?raw=true" width="220"/>
 
 # 👋 Hi, I'm ASHIRWAD KUMAR
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer+💻;React.js+Frontend+Developer+⚛️;Node.js+Backend+Developer+🚀;Building+Real+World+Web+Applications+🌍;Always+Learning+%26+Improving+🔥" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+MERN+Developer+💻;React.js+Frontend+Developer+⚛️;Node.js+Backend+Developer+🚀;Building+Modern+Web+Applications+🌍;Always+Learning+New+Technologies+🔥"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-f8d06c67-3d2c-4b0d-9f44-4d8f96a3d4a9.gif" width="500"/>
 
 </div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
 💻 Passionate **Full Stack MERN Developer** from India  
 🎓 B.Tech CSE Student at **Lovely Professional University**  
-🚀 I enjoy building real-world, scalable and user-friendly web applications  
-⚛️ Skilled in **React.js, JavaScript, Node.js, Express.js, MongoDB and MySQL**  
-🎨 Interested in modern UI/UX, responsive design and smooth animations  
-🛠️ I love working on complete products: frontend, backend, database and deployment  
-🤝 Focused on problem-solving, teamwork, consistency and continuous learning  
+🚀 Building scalable, responsive and real-world web applications  
+⚛️ Skilled in **React.js, Node.js, Express.js, MongoDB and MySQL**  
+🎨 Interested in modern UI/UX design and smooth web animations  
+🛠️ Love creating complete products from frontend to backend  
+🤝 Focused on problem-solving, consistency and continuous learning  
+🔥 Always exploring new technologies and development trends  
 
 ---
 
-## 🚀 Tech Stack & Tools
+# 🚀 Tech Stack & Tools
 
 <div align="center">
 
-### ⚛️ Frontend
+## ⚛️ Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
@@ -36,83 +39,100 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend
+---
+
+## ⚙️ Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🗄️ Database & Tools
+---
+
+## 🗄️ Database & Cloud
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+## 🧰 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 👨‍💻 Programming
+---
+
+## 👨‍💻 Programming Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🥤 PepsiCo Distributor Management Portal
+## 🥤 PepsiCo Distributor Management Portal
 
-Full-scale B2B distributor management platform for ordering, payments, logistics and analytics.
+✨ Full-scale B2B distributor management platform for ordering, logistics and analytics.
 
-**Features**
-- Role-based access system
-- Razorpay payment integration
-- Real-time order tracking
-- Warehouse and delivery workflow
-- Financial analytics dashboard
+### 🔥 Features
+✔ Role-Based Authentication  
+✔ Razorpay Payment Integration  
+✔ Real-Time Order Tracking  
+✔ Warehouse & Delivery Workflow  
+✔ Financial Analytics Dashboard  
 
-**Tech Stack:** React.js, Node.js, Supabase, Razorpay, Framer Motion  
+### 🛠️ Tech Stack
+React.js • Node.js • Supabase • Razorpay • Framer Motion
 
-🔗 [View Repository](https://github.com/ashirwad682/pepsico-project)
-
----
-
-### 🏛️ AICTE E-Governance Portal Log Management System
-
-Real-time server log management and analytics portal for secure monitoring.
-
-**Features**
-- Real-time log tracking
-- AI-based log classification
-- Role-based access control
-- Visual analytics dashboard
-- Secure backend workflow
-
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, PHP, MySQL  
-
-🔗 [View Repository](https://github.com/ashirwad682/E-governance-with-appropriate-notification-and-content-based-classification-of-log-AICTE)
+🔗 Repository  
+[Click Here](https://github.com/ashirwad682/pepsico-project)
 
 ---
 
-## 📚 Currently Learning
+## 🏛️ AICTE E-Governance Portal
+
+✨ Real-time server log management and analytics portal.
+
+### 🔥 Features
+✔ AI-Based Log Classification  
+✔ Role-Based Access Control  
+✔ Real-Time Monitoring  
+✔ Analytics Dashboard  
+✔ Secure Backend Workflow  
+
+### 🛠️ Tech Stack
+HTML • CSS • JavaScript • Node.js • PHP • MySQL
+
+🔗 Repository  
+[Click Here](https://github.com/ashirwad682/E-governance-with-appropriate-notification-and-content-based-classification-of-log-AICTE)
+
+---
+
+# 📚 Currently Learning
 
 ```yaml
 Frontend:
   - Advanced React.js
   - Framer Motion
-  - Responsive UI Design
+  - UI/UX Animation
 
 Backend:
   - REST APIs
-  - Authentication
-  - Scalable Backend Architecture
+  - Authentication Systems
+  - Backend Architecture
 
 Database:
-  - MongoDB
-  - MySQL
-  - Supabase
+  - MongoDB Optimization
+  - SQL Query Design
 
 Deployment:
   - Vercel
@@ -122,7 +142,7 @@ Deployment:
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -136,18 +156,27 @@ Deployment:
 
 ---
 
-## 🏆 Certifications
+# 🐍 Contribution Snake
 
-- NPTEL Cloud Computing
-- Think Design Prototype — Design Thinking & Figma
-- Build Gen AI Apps with No-Code Tools
-- ChatGPT-4 Prompt Engineering
-- Computational Theory & Finite Automata
-- Packet Switching Networks and Algorithms
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 Certifications
+
+🏅 NPTEL Cloud Computing  
+🏅 Design Thinking & Figma  
+🏅 ChatGPT-4 Prompt Engineering  
+🏅 Build Gen AI Apps with No-Code Tools  
+🏅 Packet Switching Networks & Algorithms  
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -167,7 +196,7 @@ Deployment:
 
 ---
 
-## ✨ Dev Quote
+# ✨ Random Dev Quote
 
 <div align="center">
 
@@ -183,6 +212,8 @@ Deployment:
 
 <img src="https://komarev.com/ghpvc/?username=ashirwad682&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=130&section=footer"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=150&section=footer"/>
 
 </div>
