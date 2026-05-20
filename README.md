@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=180&section=header&text=ASHIRWAD%20KUMAR&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<img src="./assets/profile.jpg" width="180" height="180" style="border-radius:50%;" />
+<img src="/assets/profile.jpg" width="180" height="180" style="border-radius:50%;" />
 
 # 👋 Hi, I'm ASHIRWAD KUMAR
 
