@@ -1,341 +1,188 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:0D1117,45:00F7FF,100:7F00FF&text=ASHIRWAD%20KUMAR&fontColor=ffffff&fontSize=58&animation=twinkling&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:070B16,45:101D3A,100:452B78&text=ASHIRWAD%20KUMAR&fontSize=58&fontColor=FFFFFF&fontAlignY=43&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20MERN%20%E2%80%A2%20PRODUCT%20ENGINEERING&descSize=15&descAlignY=68&animation=fadeIn"/>
 
-<img src="https://github.com/ashirwad682/ashirwad682/blob/main/assets/profile.jpg?raw=true" width="230"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=31&duration=2400&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+MERN+Developer;React.js+Frontend+Developer;Node.js+Backend+Developer;Modern+Web+App+Builder;UI%2FUX+Animation+Enthusiast;Code+Build+Deploy+Repeat"/>
-
-<br><br>
+<br/>
 
 <a href="https://ashirwadk-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-7C8CFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/ashirwad682">
+  <img src="https://img.shields.io/badge/GITHUB-171D2B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ashirwadkumar1/">
+  <img src="https://img.shields.io/badge/LINKEDIN-1769AA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ashirwad682@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-6D4AFF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:ashirwad682@gmail.com?subject=Project%20Collaboration%20/%20Opportunity&body=Hi%20Ashirwad,%0A%0AI%20want%20to%20connect%20with%20you.%0A%0AName:%0AEmail:%0AMessage:%0A">
-<img src="https://img.shields.io/badge/SEND_MESSAGE-7F00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/><br/>
 
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=8FB8FF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;React.js+%7C+Node.js+%7C+Express.js;Building+Practical+Digital+Products;Frontend+Craft+%2B+Backend+Engineering;Code+%E2%86%92+Build+%E2%86%92+Improve" alt="Animated developer introduction"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-f8d06c67-3d2c-4b0d-9f44-4d8f96a3d4a9.gif" width="560"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ashirwad682&label=PROFILE%20VIEWS&color=6D4AFF&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/ashirwad682?label=FOLLOWERS&style=flat-square&color=527DFF" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/ashirwad682?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=flat-square&color=8B6CFF" alt="GitHub stars"/>
 
 </div>
 
 ---
 
+## `01` — Developer profile
+
+I'm **Ashirwad Kumar**, a Computer Science and Engineering student at **Lovely Professional University** and a Full Stack Developer focused on building useful, responsive and maintainable web applications.
+
+I work across the product-development lifecycle: translating requirements into interfaces, building backend APIs, integrating databases and payments, and improving application workflows.
+
+- **Primary direction:** Full Stack / MERN Development
+- **Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs, PHP, Python
+- **Data:** MongoDB, MySQL, Supabase / PostgreSQL
+- **Product interests:** UI/UX, authentication, dashboards, real-time workflows and AI-integrated applications
+- **Education:** B.Tech, Computer Science & Engineering — Lovely Professional University (2023–2027)
+
 <div align="center">
 
-# 🚀 Full Stack MERN Developer
-
-### I build scalable, responsive and animated web applications using modern full-stack technologies.
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mongodb,mysql,supabase,python,java,php,git,github,vscode,postman&perline=9&theme=dark" alt="Technology stack"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212257460-738aab9a-738c-4a1e-b60b-bd5d7a2f0b69.gif"/>
-
-- 💻 Passionate **Full Stack MERN Developer** from India  
-- 🎓 B.Tech CSE Student at **Lovely Professional University**  
-- ⚛️ Skilled in **React.js, Node.js, Express.js, MongoDB, MySQL and Supabase**  
-- 🚀 I enjoy building **real-world web applications with clean UI and strong backend logic**  
-- 🎨 Interested in **UI/UX, Framer Motion, responsive layouts and animated interfaces**  
-- 🛠️ I love creating complete products from **frontend to backend**  
-- 🔥 Focused on learning, consistency, problem-solving and project-based growth  
-
-<br clear="right"/>
-
----
-
-## 🌟 Portfolio Showcase
+## `02` — Live GitHub telemetry
 
 <div align="center">
-
-<a href="https://ashirwadk-portfolio.netlify.app/">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:00F7FF,50:007CF0,100:7F00FF&text=EXPLORE%20MY%20PORTFOLIO&fontColor=ffffff&fontSize=34&animation=blinking"/>
-</a>
-
-<br><br>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🌐 Live Portfolio  
-Modern developer portfolio with projects, skills and contact section.
-
-<a href="https://ashirwadk-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Open_Portfolio-00F7FF?style=for-the-badge&logo=firefox-browser&logoColor=black"/>
-</a>
-
-</td>
-
-<td align="center" width="33%">
-
-### 💼 Project Work  
-Showcasing MERN stack, UI/UX and real-world application development.
 
 <a href="https://github.com/ashirwad682">
-<img src="https://img.shields.io/badge/View_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ashirwad682&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0B1020&title_color=91AFFF&icon_color=9B83FF&text_color=E6ECFF"/>
+</a>
+<a href="https://github.com/ashirwad682">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashirwad682&layout=compact&langs_count=8&hide_border=true&bg_color=0B1020&title_color=91AFFF&text_color=E6ECFF"/>
 </a>
 
-</td>
+<br/><br/>
 
-<td align="center" width="33%">
+<img width="90%" src="https://streak-stats.demolab.com?user=ashirwad682&hide_border=true&background=0B1020&ring=91AFFF&fire=9B83FF&currStreakLabel=91AFFF&sideLabels=E6ECFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA8C7" alt="GitHub contribution streak"/>
 
-### 📩 Collaboration  
-Open for projects, internships, freelance work and opportunities.
+<br/><br/>
 
-<a href="mailto:ashirwad682@gmail.com?subject=Project%20Collaboration%20/%20Opportunity&body=Hi%20Ashirwad,%0A%0AI%20want%20to%20connect%20with%20you.%0A%0AName:%0AEmail:%0AMessage:%0A">
-<img src="https://img.shields.io/badge/Contact_Me-7F00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashirwad682&bg_color=0B1020&color=91AFFF&line=8C72FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity"/>
 
 </div>
 
+<sub>These cards are generated from publicly available GitHub data. Third-party services can be delayed, rate-limited or temporarily unavailable.</sub>
+
 ---
 
-## 🧠 Developer Focus
+## `03` — Latest shipped / updated repositories
+
+These two project slots are **automatically refreshed by GitHub Actions** from the two most recently pushed public repositories owned by `ashirwad682` (forks are excluded). The timestamp shown is GitHub's latest push timestamp.
+
+<!--START_SECTION:latest_projects-->
+_The latest-project list will be populated automatically after the first workflow run._
+<!--END_SECTION:latest_projects-->
+
+<sub>Selection is based on repository push activity, not on a manual pinned-project list. Private repositories are not exposed by this public profile workflow.</sub>
+
+---
+
+## `04` — Selected engineering work
+
+### PepsiCo Distributor Management Portal
+A B2B distribution platform developed for distributor operations, bringing ordering, payment, inventory and delivery workflows into one application.
+
+**Engineering areas:** role-based access, product and order management, Razorpay integration, warehouse workflows, dashboards and responsive interfaces.
+
+`React.js` `Node.js` `Supabase` `PostgreSQL` `Razorpay` `Framer Motion`
+
+[Live application](https://pepsico-frontend.vercel.app/) · [GitHub profile](https://github.com/ashirwad682)
+
+### Invigilo AI / ExamShield
+An AI-assisted examination and proctoring application concept focused on online assessment workflows, user roles, scheduled tests, results and camera/audio monitoring.
+
+**Engineering areas:** authentication, role-based dashboards, exam scheduling, assessment workflows and real-time monitoring concepts.
+
+`React.js` `JavaScript` `Authentication` `Real-time workflows`
+
+### AICTE E-Governance Log Management
+A web-based project focused on server-log monitoring, classification, notifications and analytics.
+
+`JavaScript` `Node.js` `PHP` `MySQL`
+
+[Repository](https://github.com/ashirwad682/E-governance-with-appropriate-notification-and-content-based-classification-of-log-AICTE)
+
+---
+
+## `05` — Achievements & leadership
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="80"/>
-
-### Frontend
-
-React.js  
-JavaScript  
-HTML  
-CSS  
-Tailwind CSS  
-Framer Motion  
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="80"/>
-
-### Backend
-
-Node.js  
-Express.js  
-REST APIs  
-PHP  
-Authentication  
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="80"/>
-
-### Database
-
-MongoDB  
-MySQL  
-Supabase  
-SQL Queries  
-Data Models  
-
-</td>
-</tr>
-</table>
+| AREA | EXPERIENCE / MILESTONE |
+|:---|:---|
+| **Academic** | B.Tech Computer Science & Engineering, Lovely Professional University |
+| **Leadership** | Vice President, Boys' Hostel |
+| **Community** | Volunteer with a social-welfare organization |
+| **Product engineering** | Built an end-to-end distributor management platform for real business workflows |
+| **Applied technology** | Worked across web development, payment integration, database-backed applications and AI-assisted project concepts |
 
 </div>
 
----
+### Certifications & learning
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend  
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,figma"/>
-
-<br><br>
-
-### Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,php"/>
-
-<br><br>
-
-### Database & Tools  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,git,github,vscode,postman"/>
-
-<br><br>
-
-### Programming Languages  
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js"/>
-
-</div>
+- **Cloud Computing** — NPTEL
+- **Generative AI Applications** — Infosys Springboard
+- **ChatGPT Prompt Engineering** — Infosys Springboard
+- **Packet Switching Networks and Algorithms** — Coursera
+- **Design Thinking & Figma** — Lovely Professional University
 
 ---
 
-## 🚀 Featured Projects
+## `06` — Current engineering focus
 
-<div align="center">
+```text
+FULL STACK
+  ├─ React.js application architecture
+  ├─ Node.js / Express REST APIs
+  ├─ Authentication and role-based authorization
+  └─ Secure payment and business workflows
 
-<table>
-<tr>
+DATA & INTEGRATION
+  ├─ MongoDB / MySQL / PostgreSQL
+  ├─ Supabase services
+  └─ API integration and data modelling
 
-<td width="50%">
-
-## 🥤 PepsiCo Distributor Management Portal
-
-A full-scale **B2B distributor management platform** for ordering, payments, logistics and analytics.
-
-**Key Features**
-
-- Role-based authentication  
-- Razorpay payment integration  
-- Real-time order tracking  
-- Warehouse and delivery workflow  
-- Financial analytics dashboard  
-
-**Tech Stack:** React.js, Node.js, Supabase, Razorpay, Framer Motion  
-
-[View Repository](https://github.com/ashirwad682/pepsico-project)
-
-</td>
-
-<td width="50%">
-
-## 🏛️ AICTE E-Governance Portal
-
-A real-time **server log management and analytics portal** for secure monitoring.
-
-**Key Features**
-
-- AI-based log classification  
-- Real-time monitoring  
-- Role-based access control  
-- Analytics dashboard  
-- Secure backend workflow  
-
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, PHP, MySQL  
-
-[View Repository](https://github.com/ashirwad682/E-governance-with-appropriate-notification-and-content-based-classification-of-log-AICTE)
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-```yaml
-Frontend:
-  - Advanced React.js
-  - Framer Motion
-  - Modern UI Animation
-  - Responsive Design
-
-Backend:
-  - REST APIs
-  - Authentication Systems
-  - Scalable Backend Architecture
-
-Database:
-  - MongoDB Optimization
-  - SQL Query Design
-  - Supabase
-
-Deployment:
-  - Vercel
-  - Netlify
-  - Render
+PRODUCT QUALITY
+  ├─ Responsive UI and interaction design
+  ├─ Performance and reliability
+  ├─ Testing and debugging
+  └─ Deployment and iteration
 ```
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashirwad682&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
-
-</div>
 
 ---
 
-## 🏅 Certifications
+## `07` — Connect
 
 <div align="center">
 
-| Certification | Platform |
-|---|---|
-| NPTEL Cloud Computing | NPTEL |
-| Design Thinking & Figma | LPU |
-| ChatGPT-4 Prompt Engineering | Infosys Springboard |
-| Build Gen AI Apps with No-Code Tools | Infosys Springboard |
-| Packet Switching Networks and Algorithms | Coursera |
+**Have a product idea, engineering challenge or collaboration in mind?**
 
-</div>
-
----
-
-## 💌 Contact Me
-
-<div align="center">
-
-### Have a project idea, collaboration request or opportunity?
-
-<a href="mailto:ashirwad682@gmail.com?subject=Project%20Collaboration%20/%20Opportunity&body=Hi%20Ashirwad,%0A%0AI%20want%20to%20connect%20with%20you.%0A%0AName:%0AEmail:%0ASubject:%0AMessage:%0A">
-<img src="https://img.shields.io/badge/Send_A_Message-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+<a href="mailto:ashirwad682@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Contact%20Ashirwad-6D4AFF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br><br>
-
-<a href="https://github.com/ashirwad682">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ashirwadkumar1/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-1769AA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://www.linkedin.com/in/ashirwadkumar1">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="https://ashirwadk-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-View%20My%20Work-202B45?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+**Build with purpose. Engineer with care. Keep improving.**
 
-## ✨ Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-# Code • Build • Deploy • Improve
-
-<img src="https://komarev.com/ghpvc/?username=ashirwad682&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:007CF0,100:00F7FF&height=190&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:452B78,55:101D3A,100:070B16"/>
 
 </div>
